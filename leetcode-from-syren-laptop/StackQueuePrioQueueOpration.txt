@@ -1,0 +1,40 @@
+
+Stack
+---------
+https://www.geeksforgeeks.org/stack-in-python/
+	Approach using deque
+	-----------------------
+	```
+		from collections import deque
+		stack = deque()
+		stack.append('a')
+		print(stack.pop())
+	```
+		
+	Approach using queue module's  -> queue.LifoQueue
+	-------------------------------------------------
+	```
+	stack = LifoQueue(maxsize=3)
+	
+	#maxsize, empty, full, qsize
+	```
+	
+Queue
+---------------
+	Approach using queue module's  -> queue.Queue
+	-------------------------------------------------
+	q = Queue(maxsize=20)
+	q.put('c')
+	print(q.get())
+	
+Priority Queue
+--------------
+	Approach using queue module's  -> queue.PriorityQueue
+	-------------------------------------------------
+	p = PriorityQueue(maxsize=20)
+	
+	p.put((2, "Naman")) 
+	p.put((1, "Deepika")) 
+	p.put((4, "Sikha"))
+ 
+	print(p.get())

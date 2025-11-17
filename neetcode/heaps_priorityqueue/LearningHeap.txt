@@ -1,0 +1,44 @@
+
+
+-> Heap bisay re either youtube ru nahele blog site ru padhe
+	-> Youtube ru known resource 2 ta pepcoding nahele striver channel
+
+-> neetcode ra landing page re jau gote diagram dekhae tree like structure re each topic ra... taku click kale au jau topic guda rahi jaichi full diagram taa dekhae(https://neetcode.io/roadmap)... sethi heap/priority queue ku click kale sei section ra question saha prerequisite dekhauchi kn kn darkar... jadio sei guda tankari site ra course video ku point karuchi, but mu taku use kari net re khoji padhi paribi, jemiti ki Two Heap mention thila mu search kari https://emre.me/coding-patterns/two-heaps eii site ru padhili kete beautifull technique taa eta
+	Prerequisite topics for Heap/Priority Queue
+	-> Heap Properties
+	-> Push and Pop
+	-> Heapify
+	-> Two heaps (Eita advanced case re mention thila) (https://emre.me/coding-patterns/two-heaps ethu padhithili)
+	
+	
+-> Striver nka SDE sheet au A2Z sheet ru dekhili bi kn kn pre-requisite. Implementation ethi thila sethu jai net ru khojili padhiba paen heap implementation bisay re, bahut badhia heiki lekha achi tanks site re
+https://takeuforward.org/heap/binary-heap-implementation/
+
+
+30Apr2023
+*********
+->Scalar topics ru ->
+	       https://www.scaler.com/topics/priority-queue-in-python/  -> Inbuilt achi mu dekhilila ete, nahele jau 
+	        
+	   
+	   -> Programiz ru padhili... ki priority queue ku implement kariheba linkedList use kari, heap use kari, binary search tree use kari
+	      Jebe search kali google re -> "priority queue using heap"
+	      Results paili sabu site ru
+		  https://www.scaler.com/topics/data-structures/priority-queue-in-data-structure/  
+		  https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/priority_queue_using_heap/topic
+		  https://hackerearth.com/practice/notes/heaps-and-priority-queues/ 	
+		  https://www.prepbytes.com/blog/queues/priority-queue-using-binary-heap/
+		  https://www.cs.cmu.edu/~rdriley/121/notes/heaps.html  -> eta CMU university ra
+		  
+17Feb2024
+*********
+-> NPCI Coding interview paen prepare kali tike neetcode site ru... heap/priority queue bisay re padhili... bhala lagila 
+  Jau chadi deichi practice karuthili leetcode ru, continue jari rakhiba katha kebe kau company ru asijiba au semane magibe
+  
+  
+Question -> Kth smallest element in a stream
+*****************************
+
+-> Mate jaha idea asuchi, moro best idea hela ki insertion sort, i.e card shortin
+-> not able to think a solution as of by using heap. 
+	Jadi ame min heap kari kn each time k ta element ku kadhiba puni... 

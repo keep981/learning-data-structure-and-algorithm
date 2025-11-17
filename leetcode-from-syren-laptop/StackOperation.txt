@@ -1,0 +1,33 @@
+Stack Operation using list
+-------------
+
+x = []
+
+x.append(5)
+x.append(8)
+
+x.pop()
+len(x)
+
+Stack Operation using deque
+-------------
+from collections import deque
+
+x = deque()
+
+x.append('a')
+
+
+x.pop()
+
+
+Queue operation using deque
+-----------------------------
+from collections import deque
+
+x = deque()
+append()
+appendleft()
+
+pop()
+popleft()

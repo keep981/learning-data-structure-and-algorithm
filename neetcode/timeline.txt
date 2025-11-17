@@ -1,0 +1,45 @@
+-> alaga manaka solution dekhile hi jai sikhbu kemiti semane karuchanti... khali nijara dekhile jaha janithibu setiki re rahibu... sibam kahithila ehi katha au  leetcode solution re kemiti sort kariki dekhi paribu jau solution ku adhika vote milichi
+-> au neetcode ra solution taa dekhibu hi
+
+-> 
+
+4Nov2023
+********
+-> Aji Leetcode 102. Binary Tree Level Order Traversal karuchi... submit heigala... easy lagila... 
+    -> alaga lokanka solution padhibara achi
+
+-> Aji 2nd taa, leetcode-102-binary-tree-level-order-traversal kali, tike bhabibaku padila kintu solution taa bahut simple hin... ethi jau pepcoding ru jitendar sir dry run karanti seita hin help kala... hatsoff to them
+    -> alaga lokanka solution padhibara achi
+    
+5Nov2023
+********
+
+-> Aji eita gote kali... leetcode-1448-count-good-nodes-in-binary-tree... moro brute force approach re karichi accept heigala... 
+    -> alaga lokanka solution dekhibara achi if any better approach they are using
+
+6Nov2023
+********
+-> Aji solved leetcode-98-validate-binary-search-tree. 
+    -> first submission easy bhabiki bhul kali... i took it for granted
+    -> to read others solution
+
+7Nov2023
+********
+-> aji leetcode-230-kth-smallest-element-in-a-bst kali.. submit taa hei gala 
+    -> alaga lokanka solution padhibi
+
+
+9Nov2023
+********
+-> Aji karideli taa bhabiki leetcode-105-construct-binary-tree-from-preorder-and-inorder-traversal.py.
+    brute force bhali karichi... au accept bi hei gala jadio timing taa bottom percentile re thila
+    -> alaga lokanka solution padhibi
+	
+8Dec2023
+********
+-> 12Nov parathu syren paleili 2 week paen syren ku quarterly visit paen chadi deli questions kariba... 15 dina pare asiki start kari parithanti kintu aji jaiki karuchhi 
+-> https://leetcode.com/problems/implement-trie-prefix-tree/
+	-> eta ra recursive solution taa tushar nka channel ru dekhibara achi
+	
+	
+	
